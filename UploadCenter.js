@@ -1,9 +1,3 @@
-/*
-
-https://github.com/benixal
-https://www.youtube.com/@benixal
-
-*/
 
 export default {
   // @ts-ignore
